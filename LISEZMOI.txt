@@ -1,0 +1,11 @@
+Guide Brown Dust 2 (FR/EN), par Lyph — version autonome
+
+Contenu : index.html (la page) + dossier img/ (43 captures). Garde-les ensemble, au même niveau.
+
+Mettre en ligne :
+- GitHub Pages : crée un dépôt public, dépose index.html et le dossier img/ à la racine,
+  puis Settings > Pages > Deploy from a branch > main / (root).
+- Netlify : fais glisser le dossier bd2-guide sur app.netlify.com/drop (avec un compte gratuit pour garder le site en ligne).
+
+Les coches sont enregistrées dans le navigateur de chaque visiteur (pas de synchro entre appareils hors de Claude).
+Sources et licences : voir la section 17 du guide (compendium de BotAn sous CC BY 4.0).
